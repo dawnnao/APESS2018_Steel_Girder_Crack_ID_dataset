@@ -5,10 +5,10 @@ The data set is used for one of the two final projects in APESS2018
 Download link: https://pan.baidu.com/s/1dduIb1_mwxaMAJbMSb3GnA (size: 2.02GB)
 
 ## Goal of the data set
-In this project, each group of participants need to build a neural network, or use a popular existing network to detect cracks in images. Except cracks, there are ruler, handwriting, and steel girder surface as another 3 classes. These images show the practical situation of manual crack inspection for long-span bridge in China.
+In this project, each group of participants needs to build and train a neural network, or use a popular existing network and conduct transfer learning to detect cracks in images. Except cracks, there are ruler, handwriting, and steel girder surface as another 3 classes. These images show the practical situation of manual crack inspection for long-span bridge in China.
 
 ## Contents in the data set
-In the data set folder, there are 4 folders:
+In the data set package, there are 4 folders:
 
 ### In folder '0_raw_images':
 50 Raw crack images.
@@ -23,11 +23,11 @@ subimage_array is a 4D array of size [3927, 64, 64, 3], which is stacked by the 
 subimage_label is a 2D numpy array in Python (or a vector in MATLAB) of size [3927, 1], which is corresponding to the subimage_array.
 
 ### In folder '3_help_codes':
-You can use the python scripts to generate new subimages and corresponding labels with diffrent subimage size.
+You can use the python codes to generate new subimages and corresponding labels with diffrent subimage size.
 
 ## Future work
-* More images would be added into the data set depending on the feedback
-* More label format would be added into the data set depending on the feedback also
+* More images could be added into the data set depending on the feedback.
+* More label format would be added into the data set depending on the feedback also.
 * If you want to contribute to the data set, for example, labeling raw images, or submit your labeled image at hand, please contact us.
 * There is no formal paper to introduce the data set yet, so just cite the web page of the data set repository: https://github.com/dawnnao/APESS2018_Steel_Girder_Crack_ID_dataset
 
