@@ -1,6 +1,6 @@
 # APESS2018 Steel Girder Crack ID Data Set
 
-The data set is used for one of the two final projects in APESS2018
+The data set is used for one of the two final group projects in APESS2018
 
 Download link: https://pan.baidu.com/s/1dduIb1_mwxaMAJbMSb3GnA (size: 2.02GB)
 
