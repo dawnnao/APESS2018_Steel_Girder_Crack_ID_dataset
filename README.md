@@ -1,4 +1,4 @@
-# APESS2018 Steel Girder Crack ID Dataset
+# APESS2018 Steel Girder Crack ID Data Set
 
 The data set is used for one of the two final projects in APESS2018
 
