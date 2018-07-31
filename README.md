@@ -2,7 +2,9 @@
 
 The data set is used for one of the two final group projects in APESS2018
 
-Download link: https://pan.baidu.com/s/1dduIb1_mwxaMAJbMSb3GnA (size: 2.02GB)
+Download link 1: https://pan.baidu.com/s/1dduIb1_mwxaMAJbMSb3GnA (size: 2.01GB)
+
+Download link 2: https://drive.google.com/open?id=1bpB0FEB_VM2wI6-1gnK2cdLpkETETHd1
 
 ## Goal of the data set
 In this project, each group of participants needs to build and train a neural network, or use a popular existing network and conduct transfer learning to detect cracks in images. Except cracks, there are ruler, handwriting, and steel girder surface as another 3 classes. These images show the practical situation of manual crack inspection for long-span bridge in China.
