@@ -34,4 +34,5 @@ You can use the python codes to generate new subimages and corresponding labels 
 * There is no formal paper to introduce the data set yet, so just cite the web page of the data set repository: https://github.com/dawnnao/APESS2018_Steel_Girder_Crack_ID_dataset
 
 Photographer: Kun Fang
+
 © 2018 Center of Structural Monitoring and Control, Harbin Institute of Technology
