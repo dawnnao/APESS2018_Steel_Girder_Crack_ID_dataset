@@ -35,6 +35,7 @@ You can use the python codes to generate new subimages and corresponding labels 
 
 <br/>
 
+Contibutors: Zhiyi Tang, Fangqiao Hu, Yuhu Quan
 Photographer: Kun Fang
 
 © 2018 Center of Structural Monitoring and Control, Harbin Institute of Technology
